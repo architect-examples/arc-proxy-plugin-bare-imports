@@ -1,3 +1,5 @@
+⚠️ *This repository has been archived. Use [@proxy](https://arc.codes/docs/en/reference/app.arc/proxy) or [asap](https://arc.codes/docs/en/reference/runtime/node.js#%40architect%2Fasap) for proxying in Architect. This plugin is not compatible with the [plugins](https://arc.codes/docs/en/guides/extend/plugins) API for Architect. For an updated list other examples refer to [arc.codes/examples](https://arc.codes/examples).*
+
 # `@architect/proxy-plugin-bare-imports`
 
 Loosely based on the nascent [import maps proposal for bringing bare imports to the browser](https://github.com/WICG/import-maps) this plugin allows `arc.proxy.public` assets have bare imports that resolve to web standards browser native esmodules URLs. 
